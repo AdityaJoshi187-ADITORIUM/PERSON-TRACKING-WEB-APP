@@ -1,11 +1,11 @@
-PERSON-TRACKING-WEB-APP
+🕵️PERSON-TRACKING-WEB-APP🕵️
 
 
 
 This Flask web application leverages the face_recognition library to annotate faces in a video based on a provided target image. 
 It can be used to identify and mark faces within video frames, creating a new video with labeled faces.
 
-User-friendly Interface: The application provides a simple web interface for users to upload a target image and a video file.
+User-friendly Interface: The application provides a simple web interface for users to upload a target image and a video file.👀
 
 Face Recognition: Using face_recognition library, 
 the application detects and compares faces in each video frame with the target image, marking matches with rectangles and labels.
@@ -20,8 +20,8 @@ first and foremost is you need to Clone this repository or download this reposit
 
 then after navigating yourself to the app's folder youll need to create 3 more folders
 1.result
-2.uploaded images
-3.uploaded videos
+2.uploaded images🏞️
+3.uploaded videos🎬
 
 Navigate to the project directory:
 cd PERSON-TRACKING-WEB-APP
@@ -42,5 +42,5 @@ video upload, and result folders can be adjusted in the app.py file.
 Allowed file formats for upload include JPG, JPEG, PNG, GIF, and MP4. 
 You can modify the ALLOWED_EXTENSIONS set in app.py to include additional formats if needed.
 
-Issues and Contributions:
+Issues and Contributions😊:
 If you encounter any issues or have suggestions for improvements, feel free to open an issue. Contributions are welcome!!
